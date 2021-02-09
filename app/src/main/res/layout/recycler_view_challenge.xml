@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <CheckBox
+        android:id="@+id/challengeCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="10dp"
+        />
+
+    <ImageView
+        android:id="@+id/user_emoji"
+        android:layout_width="80dp"
+        android:layout_height="68dp"
+        android:layout_toRightOf="@id/challengeCheckBox"
+        />
+
+    <TextView
+        android:id="@+id/user_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        style="@style/ShadowedText"
+        android:textColor="@color/hint_color"
+        android:layout_margin="17dp"
+        android:layout_toRightOf="@id/user_emoji"
+        android:layout_centerVertical="true"
+        />
+
+</RelativeLayout>

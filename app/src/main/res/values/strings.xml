@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Fake or Real</string>
+    <string name="exit_toast">Press back again to leave app</string>
+    <string name="timer_text">"<b><i>Time:</i></b> %s"</string>
+    <string name="score_text">"<b><i>Score:</i></b> %s"</string>
+    <string name="fake">Fake</string>
+    <string name="real">real</string>
+    <string name="skip_login">Skip Log-in</string>
+    <string name="get_image">Get Image!</string>
+    <string name="records">Records</string>
+    <string name="personal_img">Personal Image</string>
+    <string name="back">Back</string>
+    <string name="next_image">Next Image</string>
+    <string name="username">"  "Username</string>
+    <string name="password">" "Password</string>
+    <string name="re_password">" "re-Password</string>
+    <string name="email">example@gmail.com</string>
+    <string name="submit">Submit</string>
+    <string name="sign_in">Sign-in</string>
+    <string name="sign_up">Sign-up</string>
+    <string name="goto_login">Back to login</string>
+    <string name="goto_main">Back to main</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="send_password">Send password to mail</string>
+    <string name="facebook_app_id">736850636882926</string>
+    <string name="fb_login_protocol_scheme">fb736850636882926</string>
+    <string name="title_activity_popup">PopupActivity</string>
+    <string name="emoji_view">Emoji View</string>
+    <string name="user_area">User Area</string>
+    <string name="set_username">Set Username</string>
+    <string name="set_password">Set Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="hidden_password">**********</string>
+    <string name="set_email">Set Email</string>
+    <string name="set_emoji">Set Emoji</string>
+    <string name="save">Save</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="remember_me">Remember me</string>
+    <!-- Strings used for challenge -->
+    <string name="got_challenge_instructions">\n%1$s challenged you with a specific image!\nIf you get it right, you\'ll both get double points for this \nround.\nGood luck!\n</string>
+    <string name="challenge_instructions">\nPick a friend to send the picture to.\nIf he guesses right you\'ll both get double points! \n</string>
+    <string name="challenge_notification_title">New challenge!</string>
+    <string name="challenge_notification_msg">Can you tell if this image is fake or real?</string>
+    <string name="challenge_sent_to">Challenge was sent to:\n</string>
+    <string name="challenge_success_title">%1$s succeeded your challenge</string>
+    <string name="challenge_fail_title">%1$s failed your challenge</string>
+    <string name="challenge_fail_msg">guess they weren\'t up for the challenge</string>
+    <string name="challenge_success_msg">woohoo! they earned you %1$d points!</string>
+</resources>
